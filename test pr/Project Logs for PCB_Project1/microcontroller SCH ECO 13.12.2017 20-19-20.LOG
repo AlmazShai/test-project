@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C8 Old Footprint=AVX-7343-31_M New Footprint=AVX-7343-31_L
+Change Component Footprint: Designator=C9 Old Footprint=CAPC0805(2012)100_M New Footprint=CAPC0805(2012)100_L
+Change Component Footprint: Designator=R10 Old Footprint=RESC0805(2012)_M New Footprint=RESC0805(2012)_L
+Change Component Footprint: Designator=R11 Old Footprint=RESC0805(2012)_M New Footprint=RESC0805(2012)_L
+Change Component Footprint: Designator=R8 Old Footprint=RESC0805(2012)_M New Footprint=RESC0805(2012)_N
+Change Component Footprint: Designator=R9 Old Footprint=RESC0805(2012)_M New Footprint=RESC0805(2012)_N
